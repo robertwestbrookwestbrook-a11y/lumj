@@ -1,0 +1,19 @@
+@import url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.eot");
+@import url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.eot?#iefix");
+@import url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.woff");
+@import url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.woff2");
+@import url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.ttf");
+@import url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.svg#GT Walsheim Pro Regular Regular");
+
+@import "tailwindcss";
+
+@theme {
+	--color-dark: #212529;
+	--color-black: #000;
+	--color-green: #8e56f9;
+}
+
+body {
+	font-family: "GT Walsheim Pro Regular Regular";
+	background: #000;
+}
